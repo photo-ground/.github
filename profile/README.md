@@ -58,6 +58,9 @@
 
 ### FE
 
-- core: `Next.js 15`
-- 스타일링: `styled-components`
-- 상태관리: `Tanstack Query` `Zustand`
+<div style="display: flex; gap: 0.25rem;">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" alt="styled-components" />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white" alt="Tanstack Query" />
+  <img src="https://img.shields.io/badge/Zustand-blue?logo=zustand&logoColor=white" alt="Zustand" />
+</div>
